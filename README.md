@@ -37,7 +37,7 @@ print(f"Hawking Temperature (UST): {T_H:.3e} K")
 - **utils** - Helper functions
 - **gr** - General Relativity
 - **qft** - Quantum Field Theory
-- **models** - Physics models (Keras-style API)
+- **models** - Physics models 
 - **quantum_gravity** - Quantum gravity with UST corrections ⭐NEW
 
 ### Quantum Gravity Features:
