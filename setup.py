@@ -12,7 +12,7 @@ setup(
     description="Professional physics library: GR, QFT, UST, Quantum Gravity",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ust-physics/ust-physics",
+    url="https://github.com/OmniumQ/ust-physics",
     packages=find_packages(exclude=["tests", "examples"]),
     classifiers=[
         "Development Status :: 4 - Beta",

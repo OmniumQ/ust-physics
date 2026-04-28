@@ -51,5 +51,5 @@ print(f"Hawking Temperature (UST): {T_H:.3e} K")
 
 ## 📄 License
 
-MIT License - Copyright (c) 2026 Niyazi ÖCAL
+Copyright (c) 2026 Niyazi ÖCAL
 Patent: TR 2026/003258
